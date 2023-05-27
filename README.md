@@ -1,3 +1,3 @@
-# tus\
+# tus\/
 
-https://ffcd-103-65-214-238.ngrok-free.app
+https://ln.run/LetA7
